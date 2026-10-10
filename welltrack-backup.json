@@ -1,0 +1,67 @@
+{
+  "data": {
+    "sleep": 6.8,
+    "activity": 180,
+    "water": 5,
+    "mental": 100,
+    "answers": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "habits": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "trend": [
+      71,
+      76,
+      73,
+      79,
+      76,
+      87,
+      87
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-10-10T21:10:54.266Z",
+      "type": "Wellbeing assessment",
+      "score": 87,
+      "mental": 100,
+      "sleep": 6.8,
+      "activity": 180,
+      "water": 5,
+      "mood": "Good",
+      "habits": 4
+    },
+    {
+      "date": "2026-10-10T21:10:46.968Z",
+      "type": "Wellbeing assessment",
+      "score": 87,
+      "mental": 100,
+      "sleep": 6.8,
+      "activity": 180,
+      "water": 5,
+      "mood": "Good",
+      "habits": 4
+    }
+  ],
+  "prefs": {
+    "remWater": true,
+    "remMove": true,
+    "remSleep": false,
+    "targetSleep": 8,
+    "targetWater": 8,
+    "targetActivity": 150,
+    "accent": "#2563eb"
+  },
+  "theme": "light"
+}
